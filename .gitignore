@@ -1,0 +1,8 @@
+data/
+*.jpg
+*.png
+un.py
+extract_object.py
+__pycache__/
+.vscode
+poppler-0.68.0/
